@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdtringify",
+        "uuid": 23466044,
+        "checksum": "l6sexd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
